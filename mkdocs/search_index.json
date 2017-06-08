@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "H\u01b0\u1edbng d\u1eabn c\u01a1 b\u1ea3n v\u1ec1 git cho h\u1ecdc vi\u00ean PyFML\n\n\n\n\nH\u01b0\u1edbng d\u1eabn g\u1ed3m 2 ph\u1ea7n ch\u00ednh:\n\n\nH\u01b0\u1edbng d\u1eabn Git c\u01a1 b\u1ea3n\n  \n--\n\n\n\n\n\n\nGi\u1edbi thi\u1ec7u , c\u00e0i \u0111\u1eb7t v\u00e0 h\u01b0\u1edbng d\u1eabn 1 s\u1ed1 thao t\u00e1c c\u01a1 b\u1ea3n v\u1edbi \nGit\n\n\n\n\n\n\nC\u00e1ch l\u00e0m vi\u1ec7c v\u1edbi 1 s\u1ed1 d\u1ecbch v\u1ee5 qu\u1ea3n l\u00ed m\u00e3 ngu\u1ed3n online nh\u01b0: \nGithub\n, \nGitlab\n\n\n\n\n\n\nC\u00e1ch n\u1ed9p b\u00e0i t\u1eadp qua Git cho h\u1ecdc vi\u00ean \nPyFML\n.\n\n\n\n\n\n\nH\u01b0\u1edbng d\u1eabn Git tr\u00ean Window\n \n--\n\n\n\n\nH\u01b0\u1edbng d\u1eabn c\u00e0i \u0111\u1eb7t, s\u1eed d\u1ee5ng \nGit\n tr\u00ean \nWindows\n ( \nGUI\n, \nTerminal\n ).\n\n\n\n\n\n\nPh\u1ee5 l\u1ee5c\n\n\n\n\n\n\nPymi on \nGithub\n\n\n\n\n\n\nPymi on \nSlack",
+            "text": "H\u01b0\u1edbng d\u1eabn c\u01a1 b\u1ea3n v\u1ec1 git cho h\u1ecdc vi\u00ean PyFML\n\n\n\n\nH\u01b0\u1edbng d\u1eabn g\u1ed3m 2 ph\u1ea7n ch\u00ednh:\n\n\nH\u01b0\u1edbng d\u1eabn Git c\u01a1 b\u1ea3n\n\n\n\n\n\n\nGi\u1edbi thi\u1ec7u , c\u00e0i \u0111\u1eb7t v\u00e0 h\u01b0\u1edbng d\u1eabn 1 s\u1ed1 thao t\u00e1c c\u01a1 b\u1ea3n v\u1edbi \nGit\n\n\n\n\n\n\nC\u00e1ch l\u00e0m vi\u1ec7c v\u1edbi 1 s\u1ed1 d\u1ecbch v\u1ee5 qu\u1ea3n l\u00ed m\u00e3 ngu\u1ed3n online nh\u01b0: \nGithub\n, \nGitlab\n\n\n\n\n\n\nC\u00e1ch n\u1ed9p b\u00e0i t\u1eadp qua Git cho h\u1ecdc vi\u00ean \nPyFML\n.\n\n\n\n\n\n\nH\u01b0\u1edbng d\u1eabn Git tr\u00ean Window\n\n\n\n\nH\u01b0\u1edbng d\u1eabn c\u00e0i \u0111\u1eb7t, s\u1eed d\u1ee5ng \nGit\n tr\u00ean \nWindows\n ( \nGUI\n, \nTerminal\n ).\n\n\n\n\n\n\nPh\u1ee5 l\u1ee5c\n\n\n\n\n\n\nPymi on \nGithub\n\n\n\n\n\n\nPymi on \nSlack",
             "title": "Home"
         },
         {
@@ -11,14 +11,14 @@
             "title": "H\u01b0\u1edbng d\u1eabn c\u01a1 b\u1ea3n v\u1ec1 git cho h\u1ecdc vi\u00ean PyFML"
         },
         {
-            "location": "/#huong-dan-git-co-ban-",
+            "location": "/#huong-dan-git-co-ban",
             "text": "Gi\u1edbi thi\u1ec7u , c\u00e0i \u0111\u1eb7t v\u00e0 h\u01b0\u1edbng d\u1eabn 1 s\u1ed1 thao t\u00e1c c\u01a1 b\u1ea3n v\u1edbi  Git    C\u00e1ch l\u00e0m vi\u1ec7c v\u1edbi 1 s\u1ed1 d\u1ecbch v\u1ee5 qu\u1ea3n l\u00ed m\u00e3 ngu\u1ed3n online nh\u01b0:  Github ,  Gitlab    C\u00e1ch n\u1ed9p b\u00e0i t\u1eadp qua Git cho h\u1ecdc vi\u00ean  PyFML .",
-            "title": "H\u01b0\u1edbng d\u1eabn Git c\u01a1 b\u1ea3n  &lt;--"
+            "title": "H\u01b0\u1edbng d\u1eabn Git c\u01a1 b\u1ea3n"
         },
         {
-            "location": "/#huong-dan-git-tren-window-",
+            "location": "/#huong-dan-git-tren-window",
             "text": "H\u01b0\u1edbng d\u1eabn c\u00e0i \u0111\u1eb7t, s\u1eed d\u1ee5ng  Git  tr\u00ean  Windows  (  GUI ,  Terminal  ).",
-            "title": "H\u01b0\u1edbng d\u1eabn Git tr\u00ean Window &lt;--"
+            "title": "H\u01b0\u1edbng d\u1eabn Git tr\u00ean Window"
         },
         {
             "location": "/#phu-luc",
